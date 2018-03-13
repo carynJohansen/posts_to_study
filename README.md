@@ -14,6 +14,7 @@ It's loosely organized into what I at least percieved was the topic I wanted to 
 ## Modeling/Machine Learning
 
 * fitting model with dalmation (JAGS and GLM) with data example: https://cran.r-project.org/web/packages/dalmatian/vignettes/pied-flycatchers-1.html
+* blog post about blog posts about brms: https://paul-buerkner.github.io/blog/old-brms-blogposts/
 
 ### ML
 
