@@ -35,8 +35,6 @@ It's loosely organized into what I at least percieved was the topic I wanted to 
 
 http://regsim.statisticalgate.com/
 
-## Data Science Specific
-
 
 ## Maps!
 
