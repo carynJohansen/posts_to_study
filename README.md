@@ -10,6 +10,7 @@ It's loosely organized into what I at least percieved was the topic I wanted to 
 * disease outbreaks: https://cran.r-project.org/web/packages/outbreaker2/index.html
 * trajectory data visualization: https://cran.r-project.org/web/packages/recurse/index.html
 * Time series: https://cran.r-project.org/web/packages/TSstudio/index.html
+* beautiful bar and bubble plots: https://github.com/rensa/steamtrain/releases
 
 ## Modeling/Machine Learning
 
@@ -39,6 +40,7 @@ http://regsim.statisticalgate.com/
 ## Maps!
 
 * downscaling coarse-grid mapping: https://cran.r-project.org/web/packages/dissever/index.html
+* https://www.davidrumsey.com/luna/servlet/view/search?q=10195.000&sort=pub_list_no_initialsort%2Cpub_date%2Cpub_list_no%2Cseries_no&os=0&pgs=250&cic=RUMSEY%7E8%7E1
 
 ## Data
 
