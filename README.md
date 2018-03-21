@@ -32,6 +32,7 @@ It's loosely organized into what I at least percieved was the topic I wanted to 
 * probabilistic clustering: https://cran.r-project.org/web/packages/ppclust/index.html
 
 * PLS and PCA: https://www.gokhanciflikli.com/post/learning-brexit/?utm_content=buffer45289&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+* PCA: https://www.rstudio.com/resources/videos/understanding-pca-using-shiny-and-stack-overflow-data/
 
 * Clustering library in python: http://scikit-learn.org/stable/modules/clustering.html
 
@@ -68,6 +69,7 @@ https://github.com/mapbox/mapbox-gl-js/tree/master/docs#writing-api-documentatio
 
 * BRRR, rap adlibs for beeps: https://github.com/brooke-watson/BRRR
 * templating package: http://rapport-package.info/?utm_content=bufferb649b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#usage
+* summarizing data ideas: http://www.business-science.io/learning-r/2018/03/03/how_to_learn_R_pt1.html?utm_content=buffer482fa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 ## SQL
 
