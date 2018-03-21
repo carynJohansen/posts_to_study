@@ -11,11 +11,14 @@ It's loosely organized into what I at least percieved was the topic I wanted to 
 * trajectory data visualization: https://cran.r-project.org/web/packages/recurse/index.html
 * Time series: https://cran.r-project.org/web/packages/TSstudio/index.html
 * beautiful bar and bubble plots: https://github.com/rensa/steamtrain/releases
+* data viz book code: https://github.com/clauswilke/dataviz
+* tufte style: http://motioninsocial.com/tufte/?utm_content=bufferb46eb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 ## Modeling/Machine Learning
 
 * fitting model with dalmation (JAGS and GLM) with data example: https://cran.r-project.org/web/packages/dalmatian/vignettes/pied-flycatchers-1.html
 * blog post about blog posts about brms: https://paul-buerkner.github.io/blog/old-brms-blogposts/
+* tyle transfer: https://github.com/VinceMarron/style_transfer
 
 ### ML
 
@@ -45,6 +48,12 @@ http://regsim.statisticalgate.com/
 ## Data
 
 * GenBank: https://cran.r-project.org/web/packages/biofiles/index.html
+* high res images from the met: https://www.metmuseum.org/art/collection/search#!?perPage=20&showOnly=withImage%7Copenaccess&sortBy=Relevance&sortOrder=asc&offset=0&pageSize=0 
+
+## Website scrapping
+
+* scrap javascript in R: http://blog.brooke.science/posts/scraping-javascript-websites-in-r/
+* Twitter: https://pushpullfork.com/build-an-instant-twitter-dashboard-with-just-a-little-code/
 
 ## NLP
 
@@ -55,6 +64,17 @@ http://regsim.statisticalgate.com/
 
 https://github.com/mapbox/mapbox-gl-js/tree/master/docs#writing-api-documentation
 
+## R stuff
+
+* BRRR, rap adlibs for beeps: https://github.com/brooke-watson/BRRR
+* templating package: http://rapport-package.info/?utm_content=bufferb649b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#usage
+
 ## SQL
 
 https://www.jennadallen.com/post/football-fans-a-data-driven-approach-to-college-selection/
+
+## Data Science writing
+
+* hyperparameter optimization mistakes: https://medium.com/@alexandraj777/top-5-mistakes-data-scientists-make-with-hyperparameter-optimization-and-how-to-prevent-them-767638b245f8
+* no such thing: https://medium.com/indeed-data-science/theres-no-such-thing-as-a-data-scientist-8dae923c14e3
+* personal data: https://medium.com/read-write-participate/on-mobile-apps-who-can-see-your-personal-data-bd8cb8390457
