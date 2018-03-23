@@ -22,6 +22,8 @@ It's loosely organized into what I at least percieved was the topic I wanted to 
 
 ### ML
 
+* Random forest: https://thinkr.biz/2018/03/01/crime-random-forest/?utm_content=buffer50fc5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
 * Learning resources from Chris Albon: https://chrisalbon.com/
 * Stanford CS229: http://cs229.stanford.edu/syllabus.html
 
@@ -35,6 +37,11 @@ It's loosely organized into what I at least percieved was the topic I wanted to 
 * PCA: https://www.rstudio.com/resources/videos/understanding-pca-using-shiny-and-stack-overflow-data/
 
 * Clustering library in python: http://scikit-learn.org/stable/modules/clustering.html
+* spatial clustering: http://katiejolly.io/blog/2018-03-14/spatial-clusters
+
+* art: https://www.youtube.com/watch?v=SLBqVOnn9Mo&feature=youtu.be
+
+* H2O tutorials: https://github.com/h2oai/h2o-tutorials/tree/master/h2o-world-2017/automl
 
 ### Regression
 
@@ -70,6 +77,9 @@ https://github.com/mapbox/mapbox-gl-js/tree/master/docs#writing-api-documentatio
 * BRRR, rap adlibs for beeps: https://github.com/brooke-watson/BRRR
 * templating package: http://rapport-package.info/?utm_content=bufferb649b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#usage
 * summarizing data ideas: http://www.business-science.io/learning-r/2018/03/03/how_to_learn_R_pt1.html?utm_content=buffer482fa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+* Olympics! https://edwinth.github.io/olympics-dataprep/
+
+* R for biochemists: http://rforbiochemists.blogspot.com/2017/06/using-uniprot-api-to-illustrate-protein.html
 
 ## SQL
 
@@ -80,3 +90,4 @@ https://www.jennadallen.com/post/football-fans-a-data-driven-approach-to-college
 * hyperparameter optimization mistakes: https://medium.com/@alexandraj777/top-5-mistakes-data-scientists-make-with-hyperparameter-optimization-and-how-to-prevent-them-767638b245f8
 * no such thing: https://medium.com/indeed-data-science/theres-no-such-thing-as-a-data-scientist-8dae923c14e3
 * personal data: https://medium.com/read-write-participate/on-mobile-apps-who-can-see-your-personal-data-bd8cb8390457
+* tumble: https://datascienceunicorn.tumblr.com/
