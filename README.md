@@ -91,3 +91,4 @@ https://www.jennadallen.com/post/football-fans-a-data-driven-approach-to-college
 * no such thing: https://medium.com/indeed-data-science/theres-no-such-thing-as-a-data-scientist-8dae923c14e3
 * personal data: https://medium.com/read-write-participate/on-mobile-apps-who-can-see-your-personal-data-bd8cb8390457
 * tumble: https://datascienceunicorn.tumblr.com/
+* Data science map: https://www.mindmeister.com/1059464804/data-science-map
