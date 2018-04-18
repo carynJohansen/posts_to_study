@@ -13,12 +13,15 @@ It's loosely organized into what I at least percieved was the topic I wanted to 
 * beautiful bar and bubble plots: https://github.com/rensa/steamtrain/releases
 * data viz book code: https://github.com/clauswilke/dataviz
 * tufte style: http://motioninsocial.com/tufte/?utm_content=bufferb46eb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+* pretty likelihood functions: https://www.rdatagen.net/post/mle-can-be-pretty/?utm_content=bufferdaa34&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 ## Modeling/Machine Learning
 
 * fitting model with dalmation (JAGS and GLM) with data example: https://cran.r-project.org/web/packages/dalmatian/vignettes/pied-flycatchers-1.html
 * blog post about blog posts about brms: https://paul-buerkner.github.io/blog/old-brms-blogposts/
-* tyle transfer: https://github.com/VinceMarron/style_transfer
+* style transfer: https://github.com/VinceMarron/style_transfer
+* bayesian bootstrapping in R: http://www.sumsar.net/blog/2015/07/easy-bayesian-bootstrap-in-r/?utm_content=bufferacd3f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
 
 ### ML
 
@@ -52,6 +55,8 @@ http://regsim.statisticalgate.com/
 
 * downscaling coarse-grid mapping: https://cran.r-project.org/web/packages/dissever/index.html
 * https://www.davidrumsey.com/luna/servlet/view/search?q=10195.000&sort=pub_list_no_initialsort%2Cpub_date%2Cpub_list_no%2Cseries_no&os=0&pgs=250&cic=RUMSEY%7E8%7E1
+* great circles: https://www.jessesadler.com/post/great-circles-sp-sf/
+* using ggmap: https://www.littlemissdata.com/blog/maps
 
 ## Data
 
@@ -67,6 +72,7 @@ http://regsim.statisticalgate.com/
 
 * https://trinkerrstuff.wordpress.com/2018/02/28/using-r-to-reason-test-theory-a-case-study-from-the-field-of-reading-education/?utm_content=buffer67d1c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 * http://babieslearninglanguage.blogspot.com/2018/02/mixed-effects-models-is-it-time-to-go.html
+* text as data: https://github.com/alexhanna/unm-text-as-data
 
 ## API
 
@@ -80,6 +86,9 @@ https://github.com/mapbox/mapbox-gl-js/tree/master/docs#writing-api-documentatio
 * Olympics! https://edwinth.github.io/olympics-dataprep/
 
 * R for biochemists: http://rforbiochemists.blogspot.com/2017/06/using-uniprot-api-to-illustrate-protein.html
+* meteorological data in R: https://eliocamp.github.io/metR/
+* making GIFs: http://katiejolly.io/blog/2018-04-17/pv-installations
+* Shiny apps: https://www.jennadallen.com/post/a-shiny-app-to-visualize-and-share-my-dogs-medical-history/
 
 ## SQL
 
@@ -92,3 +101,8 @@ https://www.jennadallen.com/post/football-fans-a-data-driven-approach-to-college
 * personal data: https://medium.com/read-write-participate/on-mobile-apps-who-can-see-your-personal-data-bd8cb8390457
 * tumble: https://datascienceunicorn.tumblr.com/
 * Data science map: https://www.mindmeister.com/1059464804/data-science-map
+* creativity and DS by Hilary Parker: https://www.slideshare.net/hilaryparker/women-in-analytics-conference-april-2018
+* moral character of cryptography work: https://pdfs.semanticscholar.org/0580/cb6c869de3b3311a4b5616c6e696755be7bc.pdf
+* surprise! algorithms: http://aiweirdness.com/post/172894792687/when-algorithms-surprise-us
+* Data's dark side, hrc and human trafficking: https://www.youtube.com/watch?v=w4dfD4EGT6M&feature=youtu.be
+* Anne Wojcicki, building the future: https://blog.ycombinator.com/anne-wojcicki-on-how-to-build-the-future/
