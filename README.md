@@ -14,6 +14,7 @@ It's loosely organized into what I at least percieved was the topic I wanted to 
 * data viz book code: https://github.com/clauswilke/dataviz
 * tufte style: http://motioninsocial.com/tufte/?utm_content=bufferb46eb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 * pretty likelihood functions: https://www.rdatagen.net/post/mle-can-be-pretty/?utm_content=bufferdaa34&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+* D3 in R: https://rstudio.github.io/r2d3/
 
 ## Modeling/Machine Learning
 
@@ -46,10 +47,20 @@ It's loosely organized into what I at least percieved was the topic I wanted to 
 
 * H2O tutorials: https://github.com/h2oai/h2o-tutorials/tree/master/h2o-world-2017/automl
 
+* Keras cheatsheet: https://github.com/rstudio/cheatsheets/raw/master/keras.pdf
+
+* AirBNB's data sharing platform: https://github.com/airbnb/knowledge-repo
+
+* neural algorithms of artistic style, paper: https://arxiv.org/abs/1508.06576
+
+* activation functions: https://towardsdatascience.com/activation-functions-and-its-types-which-is-better-a9a5310cc8f
+
+* time series forcasting with neural nets: https://tensorflow.rstudio.com/blog/time-series-forecasting-with-recurrent-neural-networks.html?utm_content=buffer15f4d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+* DL with tabular data (fast.ai): http://www.fast.ai/2018/04/29/categorical-embeddings/
+
 ### Regression
 
 http://regsim.statisticalgate.com/
-
 
 ## Maps!
 
@@ -57,6 +68,7 @@ http://regsim.statisticalgate.com/
 * https://www.davidrumsey.com/luna/servlet/view/search?q=10195.000&sort=pub_list_no_initialsort%2Cpub_date%2Cpub_list_no%2Cseries_no&os=0&pgs=250&cic=RUMSEY%7E8%7E1
 * great circles: https://www.jessesadler.com/post/great-circles-sp-sf/
 * using ggmap: https://www.littlemissdata.com/blog/maps
+* language mapping in R: https://peerchristensen.netlify.com/post/2018-02-20-lingtypology/
 
 ## Data
 
@@ -89,7 +101,8 @@ https://github.com/mapbox/mapbox-gl-js/tree/master/docs#writing-api-documentatio
 * meteorological data in R: https://eliocamp.github.io/metR/
 * making GIFs: http://katiejolly.io/blog/2018-04-17/pv-installations
 * Shiny apps: https://www.jennadallen.com/post/a-shiny-app-to-visualize-and-share-my-dogs-medical-history/
-
+* purrr adverb (I don't know): https://colinfay.me/purrr-adverb-tidyverse/
+* shiny web app!: https://paula-moraga.github.io/tutorial-shiny-spatial/
 ## SQL
 
 https://www.jennadallen.com/post/football-fans-a-data-driven-approach-to-college-selection/
@@ -106,3 +119,6 @@ https://www.jennadallen.com/post/football-fans-a-data-driven-approach-to-college
 * surprise! algorithms: http://aiweirdness.com/post/172894792687/when-algorithms-surprise-us
 * Data's dark side, hrc and human trafficking: https://www.youtube.com/watch?v=w4dfD4EGT6M&feature=youtu.be
 * Anne Wojcicki, building the future: https://blog.ycombinator.com/anne-wojcicki-on-how-to-build-the-future/
+* democratize data science: https://register.gotowebinar.com/register/5951553477110700289?source=twitter
+* ensemble forcasting: https://www.heliocampus.com/blog/whyuseensembleapproaches
+* nice personal website: https://emitanaka.github.io/showcase/
